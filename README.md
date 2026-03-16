@@ -6,7 +6,9 @@ A Flutter CRUD app for managing student records using SQLite for local storage a
 
 Want to see the app in action? Click the image below to watch the demo video.
 
-[![Flutter Student CRUD App Demo](assets/demo/flutter-student-crud-app-thumbnail.png)](https://drive.google.com/file/d/1aJFBos6e5z4K0adABF0h54h_Vtjvz_BW/view?usp=sharing)
+[![Flutter Student CRUD App Demo](assets/demo/flutter-student-crud-app-thumbnail.png)]
+
+<iframe src="https://drive.google.com/file/d/1aJFBos6e5z4K0adABF0h54h_Vtjvz_BW/preview" width="640" height="480"></iframe>
 
 ## Features
 
